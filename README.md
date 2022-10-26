@@ -1,16 +1,15 @@
 # 👋 Hey, I’m @bustyAI
 ## ![Octocat](https://github.com/bustyAI/bustyAI/blob/main/assets/octo.png) About me
 
-🦦 Hello my name is Oscar Ochoa, and I am currently a computer science student at California State University Monterey Bay.
+🦦 Hello my name is Oscar Ochoa, I am currently studying Computer Science at Cal State Monterey Bay. 
 
-:bamboo: I graduated from Coding Dojo in May with my Data Science Certificate.
+:bamboo: I graduated from Coding Dojo in May with a Certificate in Data Science 
 
-🎸 When I am not on my computer I enjoy the processes of learning new things! My hobbies tend to change very often because of my obsession to learn. Currently I           am learning how to play guitar.
+🎸I like to call myself a life long learner. My passion for learning does not stop at Computer Science, my hobbies tend to change quiet frequently. My new hobby currently is learning how to play the guitar. 
 
-🛹 Just before I got into playing guitar, my obession was skating. I never learned as a kid, so I just gave it a shot. I went in with the assumption I had good           balance, but skating was a very humbling and painful experience. By far the hardest hobby I have yet to master.
+🛹 Before I got into learning the guitar, my obession was skating. Not having any expereince on the skateboard - I did not think much about how difficuly it would be just to balance, from this it has taught me that many things that may seem simple might actually be difficult. 
 
-:computer: Coming from a small farming city in the central valley (Delano), I hadn't had much exposure to STEM related topics. This is why in the future I hope to
-           teach computer science at low income schools. To be able to give those students an opportunity to maybe fall in love with the subject as I did.
+:computer: Coming from a small farming town in the central valley named Delano, I did not have much exposure to STEM related topics. This is why in the future I hope to teach computer science at low income schools. To be able to give those students an opportunity to be exposed to more than just agriculture and farming, I want to be able to help them develop their own interests rather than whats given to them. 
       
 ## Projects
 - Movie project: Gathered data from tmdb and imdb in order to analyze what makes a great movie. Is it budget, revenue, or MPAA rating? [:movie_camera:](https://github.com/bustyAI/Movie-Project) **<-- click me and find out**
