@@ -12,6 +12,8 @@
 :computer: Coming from a small farming town in the central valley named Delano, I did not have much exposure to STEM related topics. This is why in the future I hope to teach computer science at low income schools. To be able to give those students an opportunity to be exposed to more than just agriculture and farming, I want to be able to help them develop their own interests rather than whats given to them. 
       
 ## Projects
+- Interstellar Disaster: For this project passengers have been transported into another dimension, and it is our job to create multiple machine learning models to predict which passengers have been transported. Can we rescue all the passengers? [:space_invader:](https://github.com/bustyAI/Interstellar-Disaster) **<-- click to find out**
+
 - Movie project: Gathered data from tmdb and imdb in order to analyze what makes a great movie. Is it budget, revenue, or MPAA rating? [:movie_camera:](https://github.com/bustyAI/Movie-Project) **<-- click me and find out**
 
 - Cat Classifier: I have 5 Cats, so I decided to build a muliticlass classification model that will predict each of my cats by name! (in pytorch btw) 
