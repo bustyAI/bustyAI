@@ -1,17 +1,13 @@
-# 👋 Hey, I’m @bustyAI
+# 👋 Hi, I’m Oscar 
 ## ![Octocat](https://github.com/bustyAI/bustyAI/blob/main/assets/octo.png) About me
 
-🦦 Hello my name is Oscar Ochoa, I am currently studying Computer Science at Cal State Monterey Bay. 
+🦦   Hi, I'm Oscar Ochoa. I'm currently studying Computer Science at Cal State Monterey Bay set to graduate August 2024.
 
-:bamboo: I graduated from Coding Dojo in May with a Certificate in Data Science 
+🎸   I consider myself a lifelong learner. My passion for learning extends beyond Computer Science, and my interests often evolve. Currently, my new hobby is learning to play the guitar. Before I got into learning the guitar, my obession was skating. Not having any expereince on the skateboard. I hadn't realized how challenging it would be just to balance. This experience has taught me that many things that seem simple can actually be difficult.
 
-🎸I like to call myself a life long learner. My passion for learning does not stop at Computer Science, my hobbies tend to change quiet frequently. My new hobby currently is learning how to play the guitar. 
+:computer:   Coming from Delano, a small farming town in the Central Valley, I had limited exposure to STEM topics. This why I hope to teach Computer Science at low-income schools. I want to offer students the chance to explore opportunities beyond agriculture and farming, allowing them to develop their own interests rather than feeling confined to what's familiar.
 
-🛹 Before I got into learning the guitar, my obession was skating. Not having any expereince on the skateboard - I did not think much about how difficult it would be just to balance, from this it has taught me that many things that may seem simple might actually be difficult. 
-
-:computer: Coming from a small farming town in the central valley named Delano, I did not have much exposure to STEM related topics. This is why in the future I hope to teach computer science at low income schools. To be able to give those students an opportunity to be exposed to more than just agriculture and farming, I want to be able to help them develop their own interests rather than whats given to them. 
-      
-
+🖱️ I enjoy creating software, from the complex backend to the elegant frontend. Anything that involves telling a computer what to do i'm in. I am always open to collaborating on new projects to further develop my skill set. Feel free to reach out to collaborate.
 <!---
 bustyAI/bustyAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
